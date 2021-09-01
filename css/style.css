@@ -216,4 +216,129 @@ body {
     padding-bottom: 170px;
 }
 /* section4 */
-
+.section4 {
+    background: #181F29;
+}
+.section4-container h2 {
+    padding-top: 140px;
+    padding-bottom: 22px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    margin: 0;
+}
+.section4-container p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 142.8%;
+    color: #6A7C95;
+    margin: 0;
+    padding-bottom: 50px;
+}
+.section4-container button {
+    background: #212A38;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    margin-bottom: 140px;
+}
+.section4-container button a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 151.3%;
+    text-align: center;
+    color: #6A7C95;
+    padding: 40px;
+}
+.section4-item2 img {
+    padding-top: 125px;
+}
+/* section5 */
+.section5 h2 {
+    padding-top: 120px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 50px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-bottom: 22px;
+}
+.section5 p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 142.8%;
+    color: #6A7C95;
+    margin: 0;
+}
+.section5-container {
+    padding-bottom: 140px;
+}
+.section5-item {
+    margin-top: 48px;
+    width: 30%;
+    background: #273140;
+    box-shadow: 0px 1px 26px rgba(24, 31, 41, 0.15);
+    border-radius: 15px;
+    padding: 30px;
+}
+.section5-item h3 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 20px;
+}
+.section5-item p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 142.8%;
+    text-align: center;
+    color: #717E92;
+    margin: 0;
+}
+.section5-item li {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160.3%;
+    color: #717E92; 
+}
+.list {
+    opacity: 0.3;
+}
+.btn1, .btn2, .btn3 {
+    border-radius: 5px;
+    border: none;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.btn1 {
+    background: #6A7395;
+}
+.btn2 {
+    background: #6A9590;
+}
+.btn3 {
+    background: #95936A;
+}
+.section5-item button a {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 70px;
+}
