@@ -1,0 +1,79 @@
+@import url(//db.onlinewebfonts.com/c/0b51833ff62e4af8acb5fd3e2bf59e97?family=SF+Pro+Display);
+@font-face {font-family: "SF Pro Display"; src: url("//db.onlinewebfonts.com/t/0b51833ff62e4af8acb5fd3e2bf59e97.eot"); src: url("//db.onlinewebfonts.com/t/0b51833ff62e4af8acb5fd3e2bf59e97.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0b51833ff62e4af8acb5fd3e2bf59e97.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0b51833ff62e4af8acb5fd3e2bf59e97.woff") format("woff"), url("//db.onlinewebfonts.com/t/0b51833ff62e4af8acb5fd3e2bf59e97.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0b51833ff62e4af8acb5fd3e2bf59e97.svg#SF Pro Display") format("svg"); }
+*, :after, :before {
+    box-sizing: inherit;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+html {
+    height: 100vh;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'SF Pro Display', sans-serif;
+    overflow-x: hidden;
+    padding: 0;
+    font-size: 18px;
+    color: #6A7C95;
+    background: #11161E;
+    line-height: 1.25;
+    margin: 0;
+}
+.text-center {
+    text-align: center!important;
+}
+.align-items-center {
+    align-items: center!important;
+}
+.justify-content-between {
+    justify-content: space-between!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.flex-md-row {
+    flex-direction: row!important;
+}
+.flex-column {
+    flex-direction: column!important;
+}
+.container {
+    max-width: 1450px;
+    margin: 0 auto;
+    /* padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto; */
+}
+/* header  */
+.header {
+    padding-top: 100px;
+}
+.header-container a img {
+    padding-left: 188px;
+    padding-right: 188px;
+}
+.header-container a {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 151.3%;
+    color: rgba(118, 134, 159, 0.8);
+}
+.header-container a:hover {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 151.3%;
+    display: flex;
+    align-items: center;
+    color: #5CA35B;
+}
