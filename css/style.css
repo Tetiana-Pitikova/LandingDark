@@ -342,3 +342,32 @@ body {
     color: #FFFFFF;
     padding: 70px;
 }
+/* section6 */
+.section6 {
+    background: #181F29;
+}
+.section6 h2 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 50px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 145px;
+    padding-bottom: 22px;
+}
+.section6 p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 142.8%;
+    color: #6A7C95; 
+    margin: 0;
+    padding-bottom: 30px;
+}
+.social-media {
+    padding-bottom: 110px;
+}
+.social-media img {
+    padding-right: 35px;
+}
