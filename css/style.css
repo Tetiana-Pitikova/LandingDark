@@ -184,3 +184,36 @@ body {
     text-align: center;
     color: #717E92;
 }
+/* section3  */
+.section3 h2 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    margin: 0;
+    padding-bottom: 22px;
+    padding-top: 147px;
+}
+.section3 p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 142.8%;
+    color: #6A7C95;
+    margin: 0;
+    padding-bottom: 60px;
+}
+.section3-pictures img:first-child {
+    padding-right: 47px;
+}
+.section3-pictures img:last-child {
+    padding-left: 28px;
+}
+.section3-pictures img {
+    padding-bottom: 170px;
+}
+/* section4 */
+
